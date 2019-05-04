@@ -6,17 +6,17 @@ weight = 20
 
 
 
-* [ 20180815_ls86r_btlpo ]({{< relref "20180815_ls86r_btlpo" >}})
+* [ 20180815_ls86r_btlpo.mp3 ]({{< relref "20180815_ls86r_btlpo" >}})
 
 
-* [ 20180808_qonzhpouhj0 ]({{< relref "20180808_qonzhpouhj0" >}})
+* [ 20180808_qonzhpouhj0.mp3 ]({{< relref "20180808_qonzhpouhj0" >}})
 
 
-* [ 20180803_qsmebvxibae ]({{< relref "20180803_qsmebvxibae" >}})
+* [ 20180803_qsmebvxibae.mp3 ]({{< relref "20180803_qsmebvxibae" >}})
 
 
-* [ 20180802_rixkuntr3a4 ]({{< relref "20180802_rixkuntr3a4" >}})
+* [ 20180802_rixkuntr3a4.mp3 ]({{< relref "20180802_rixkuntr3a4" >}})
 
 
-* [ 20180802_rfxr0kqhwsq ]({{< relref "20180802_rfxr0kqhwsq" >}})
+* [ 20180802_rfxr0kqhwsq.mp3 ]({{< relref "20180802_rfxr0kqhwsq" >}})
 

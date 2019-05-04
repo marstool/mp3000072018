@@ -6,23 +6,23 @@ weight = 20
 
 
 
-* [ 20180329_qacodc5iium ]({{< relref "20180329_qacodc5iium" >}})
+* [ 20180329_qacodc5iium.mp3 ]({{< relref "20180329_qacodc5iium" >}})
 
 
-* [ 20180328_eihjmgnhmww ]({{< relref "20180328_eihjmgnhmww" >}})
+* [ 20180328_eihjmgnhmww.mp3 ]({{< relref "20180328_eihjmgnhmww" >}})
 
 
-* [ 20180327_cajnkwceufm ]({{< relref "20180327_cajnkwceufm" >}})
+* [ 20180327_cajnkwceufm.mp3 ]({{< relref "20180327_cajnkwceufm" >}})
 
 
-* [ 20180326_0nt_q_h_snm ]({{< relref "20180326_0nt_q_h_snm" >}})
+* [ 20180326_0nt_q_h_snm.mp3 ]({{< relref "20180326_0nt_q_h_snm" >}})
 
 
-* [ 20180323_dxu_8_v0yss ]({{< relref "20180323_dxu_8_v0yss" >}})
+* [ 20180323_dxu_8_v0yss.mp3 ]({{< relref "20180323_dxu_8_v0yss" >}})
 
 
-* [ 20180319_hevpfg8buu4 ]({{< relref "20180319_hevpfg8buu4" >}})
+* [ 20180319_hevpfg8buu4.mp3 ]({{< relref "20180319_hevpfg8buu4" >}})
 
 
-* [ 20180308_plciozgue0e ]({{< relref "20180308_plciozgue0e" >}})
+* [ 20180308_plciozgue0e.mp3 ]({{< relref "20180308_plciozgue0e" >}})
 
